@@ -1,0 +1,42 @@
+{
+  "name": "Cantata One",
+  "designer": "Joana Correia da Silva",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 22818,
+  "fonts": [
+    {
+      "name": "Cantata One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "CantataOne-Regular.ttf",
+      "postScriptName": "CantataOne-Regular",
+      "fullName": "CantataOne-Regular",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Cantata\"\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Cantata One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "CantataOne-Regular-OTF.ttf",
+      "postScriptName": "CantataOne-Regular",
+      "fullName": "CantataOne-Regular",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Cantata\"\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Cantata One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "CantataOne-Regular-TTF.ttf",
+      "postScriptName": "CantataOne-Regular",
+      "fullName": "CantataOne-Regular",
+      "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Cantata\"\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-02-29"
+}

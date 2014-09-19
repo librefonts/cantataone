@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [CantataOne-Regular.ttf.ttx, src/CantataOne-Regular.otf.ttx, src/CantataOne-Regular-TTF.sfd,
+  src/CantataOne-Regular-OTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
